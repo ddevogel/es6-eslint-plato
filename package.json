@@ -47,7 +47,7 @@
     "analyze"
   ],
   "dependencies": {
-    "escomplex-js": "~1.2.0",
+    "escomplex-js": "git+https://github.com/deedubs/escomplex-js.git",
     "fs-extra": "^0.3.2",
     "glob": "~4.4.1",
     "jshint": "~2.6.3",
